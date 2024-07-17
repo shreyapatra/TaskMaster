@@ -1,0 +1,1 @@
+TaskMaster is a simple and interactive to-do list application built with HTML, CSS, and JavaScript. Users can easily add, complete, and delete tasks. The app features a custom scrollbar and responsive design for an enhanced user experience.
